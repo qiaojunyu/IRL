@@ -1,5 +1,5 @@
 # IRL
-## Vision-based Robotic Grasping: Papers and Codes
+## IRL: Papers and Codes
 
 ## AIRL
 **[ICLR-2018]** LEARNING ROBUST REWARDS WITH ADVERSARIAL INVERSE REINFORCEMENT LEARNING [[PDF](https://arxiv.org/abs/1710.11248)]
