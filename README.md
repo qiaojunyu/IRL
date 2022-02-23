@@ -4,6 +4,7 @@
 ## AIRL
 
 ## IRL(rank)
+**[CoRL]** Learning from Demonstrations using Signal Temporal Logic [[PDF](https://arxiv.org/abs/2102.07730)]
 
 ## IRL on robot
-**[]** Inverse reinforcement learning for dexterous hand manipulation [[project](https://github.com/taozh2017/RGBD-SODsurvey)]
+**[ICDL]** Inverse reinforcement learning for dexterous hand manipulation [[PDF](https://ieeexplore.ieee.org/abstract/document/9515637)]
