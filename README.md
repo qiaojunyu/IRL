@@ -4,3 +4,6 @@
 ## AIRL
 
 ## IRL
+
+## robot
+**[]** Inverse reinforcement learning for dexterous hand manipulation [[project](https://github.com/taozh2017/RGBD-SODsurvey)]
